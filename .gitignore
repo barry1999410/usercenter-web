@@ -6,7 +6,7 @@
 /src/utils/request-temp.js
 _roadhog-api-doc
 # production
-#/dist
+/dist
 
 # misc
 .DS_Store
